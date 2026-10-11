@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="dotagranny"
+version="1.0.0"
+displayName="Dota Granny"
+description='''
+Мод-кроссовер: злая бабка из хорроров + предметы из MOBA.
+Блинк-кинжал, крюк, целебная мазь, Эгида бессмертия и золотые монеты.
+'''
+
+[[dependencies.dotagranny]]
+modId="forge"
+mandatory=true
+versionRange="[47,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.dotagranny]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.21)"
+ordering="NONE"
+side="BOTH"

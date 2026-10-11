@@ -1,0 +1,16 @@
+{
+  "itemGroup.dotagranny": "Dota Granny",
+  "entity.dotagranny.granny": "Angry Granny",
+  "item.dotagranny.granny_spawn_egg": "Angry Granny Spawn Egg",
+  "item.dotagranny.gold_coin": "Gold Coin",
+  "item.dotagranny.blink_dagger": "Blink Dagger",
+  "item.dotagranny.hook": "Meat Hook",
+  "item.dotagranny.salve": "Healing Salve",
+  "item.dotagranny.aegis": "Aegis of Immortality",
+  "tooltip.dotagranny.blink_dagger": "Right-click: blink forward up to 14 blocks (8s cooldown)",
+  "tooltip.dotagranny.hook": "Right-click: throw the hook and pull the first creature in your sights",
+  "tooltip.dotagranny.salve": "Drink: strong regeneration for 10 seconds",
+  "tooltip.dotagranny.aegis": "Keep in inventory: you will be resurrected once instead of dying",
+  "message.dotagranny.blink_blocked": "No room to blink there!",
+  "message.dotagranny.aegis_used": "The Aegis saved you from death!"
+}

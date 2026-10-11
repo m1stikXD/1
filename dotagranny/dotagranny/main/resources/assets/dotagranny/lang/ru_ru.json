@@ -1,0 +1,16 @@
+{
+  "itemGroup.dotagranny": "Dota Granny",
+  "entity.dotagranny.granny": "Злая бабка",
+  "item.dotagranny.granny_spawn_egg": "Яйцо призыва: Злая бабка",
+  "item.dotagranny.gold_coin": "Золотая монета",
+  "item.dotagranny.blink_dagger": "Блинк-кинжал",
+  "item.dotagranny.hook": "Мясной крюк",
+  "item.dotagranny.salve": "Целебная мазь",
+  "item.dotagranny.aegis": "Эгида бессмертия",
+  "tooltip.dotagranny.blink_dagger": "ПКМ: рывок вперёд до 14 блоков (перезарядка 8 сек.)",
+  "tooltip.dotagranny.hook": "ПКМ: бросить крюк и притянуть первое существо на линии прицела",
+  "tooltip.dotagranny.salve": "Выпить: мощная регенерация на 10 секунд",
+  "tooltip.dotagranny.aegis": "Держи в инвентаре: один раз воскреснешь вместо смерти",
+  "message.dotagranny.blink_blocked": "Там нет места для блинка!",
+  "message.dotagranny.aegis_used": "Эгида спасла тебя от смерти!"
+}

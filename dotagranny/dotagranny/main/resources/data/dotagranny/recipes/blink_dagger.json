@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "GEG",
+    "GSG"
+  ],
+  "key": {
+    "G": { "item": "dotagranny:gold_coin" },
+    "E": { "item": "minecraft:ender_pearl" },
+    "S": { "item": "minecraft:stick" }
+  },
+  "result": { "item": "dotagranny:blink_dagger" }
+}
